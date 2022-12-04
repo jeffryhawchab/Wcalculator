@@ -23,14 +23,9 @@ This project was built using these technologies.
 - Css3
 - Javascript
 
-## Features
-**📱 Fully Responsive** <br>
-**Cool video background**
 
 
-## 🛠 Installation and Setup Instructions
-
-1. clone This repo navigate to index.html and open it with live server extensions
+1. clone This repo navigate to index.html and open it with live server 
 ### Show your support
 
-Give a ⭐ if you like this website!
+Give a ⭐ if you like this !
